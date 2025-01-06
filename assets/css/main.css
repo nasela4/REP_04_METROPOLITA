@@ -4231,4 +4231,11 @@
 		#three, #four, #footer section {
 			display: none;
 		}
+<<<<<<< HEAD
+=======
+		#banner b{
+			color: rgb(255, 255, 255) !important;
+			font-weight: 900;
+		}
+>>>>>>> feature2
 		
